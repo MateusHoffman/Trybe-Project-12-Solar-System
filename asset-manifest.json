@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Trybe-Project-12-Solar-System/static/css/main.073c9b0a.css",
-    "main.js": "/Trybe-Project-12-Solar-System/static/js/main.5b186843.js",
-    "static/js/787.c44c5cce.chunk.js": "/Trybe-Project-12-Solar-System/static/js/787.c44c5cce.chunk.js",
-    "static/media/logo.svg": "/Trybe-Project-12-Solar-System/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Trybe-Project-12-Solar-System/static/css/main.15616196.css",
+    "main.js": "/Trybe-Project-12-Solar-System/static/js/main.a09edd6c.js",
+    "static/media/Urano.png": "/Trybe-Project-12-Solar-System/static/media/Urano.2c26dd084f04c1e03cc5.png",
+    "static/media/Mercurio.png": "/Trybe-Project-12-Solar-System/static/media/Mercurio.4e7347e10b0eaddef8e2.png",
+    "static/media/Saturno.png": "/Trybe-Project-12-Solar-System/static/media/Saturno.b1f69fbfada76b0df108.png",
+    "static/media/Terra.png": "/Trybe-Project-12-Solar-System/static/media/Terra.639e8c76005d8abbb551.png",
+    "static/media/Venus.png": "/Trybe-Project-12-Solar-System/static/media/Venus.059bab3b3e037f877542.png",
+    "static/media/Netuno.png": "/Trybe-Project-12-Solar-System/static/media/Netuno.3ca9dab7107207335772.png",
+    "static/media/Marte.png": "/Trybe-Project-12-Solar-System/static/media/Marte.52e09fca4006a08960a9.png",
+    "static/media/Jupiter.png": "/Trybe-Project-12-Solar-System/static/media/Jupiter.24d4650d857beef2080e.png",
     "index.html": "/Trybe-Project-12-Solar-System/index.html",
-    "main.073c9b0a.css.map": "/Trybe-Project-12-Solar-System/static/css/main.073c9b0a.css.map",
-    "main.5b186843.js.map": "/Trybe-Project-12-Solar-System/static/js/main.5b186843.js.map",
-    "787.c44c5cce.chunk.js.map": "/Trybe-Project-12-Solar-System/static/js/787.c44c5cce.chunk.js.map"
+    "main.15616196.css.map": "/Trybe-Project-12-Solar-System/static/css/main.15616196.css.map",
+    "main.a09edd6c.js.map": "/Trybe-Project-12-Solar-System/static/js/main.a09edd6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5b186843.js"
+    "static/css/main.15616196.css",
+    "static/js/main.a09edd6c.js"
   ]
 }
